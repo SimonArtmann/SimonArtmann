@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @SimonArtmann
-- 👀 I’m interested in boxing and programming
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on projects of any kind
+- 👀 I’m interested in music and programming
+- 🌱 I’m currently learning Webdevelopment
+- 💞️ I’m looking to collaborate on web-projects 
 - 📫 How to reach me simonart0605@gmail.com
 
 <!---
